@@ -1,22 +1,22 @@
 #WDI SF 14 ONLINE RESOURCES
 
-### Topical Index
+## Topical Index
 
-The following is a list of topics you learned through the course.
+The following is a list of topics you learned throughout the course.
+
+###Week 7
+
+####Topics Covered
+
+ * [Auth in Rails](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dawn/auth-in-rails.md)
+ * [Devise](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dusk/devise_notes.md)
+ * [Nested Resources & Multiple Associations](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_2_tuesday/dawn/nested-resources-and-multiple-associations.md)
+ * TDD APP
+ * Active Job
+ * HTTParty & Action Mailer
 
 
-
-* week 7 - Rails Continued
-  * [Auth in Rails](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dawn/auth-in-rails.md)
-  * [Devise](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_1_monday/dusk/devise_notes.md)
-  * [Nested Resources & Multiple Associations](https://github.com/sf-wdi-14/notes/blob/master/lectures/week-7/_2_tuesday/dawn/nested-resources-and-multiple-associations.md)
-  * TDD APP
-  * Active Job
-  * HTTParty & Action Mailer
-
-
-
-### Week 7 - Rails Continued.
+####Further Resources
 
 ### Auth in Rails
 
