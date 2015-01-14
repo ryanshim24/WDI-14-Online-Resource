@@ -18,7 +18,7 @@ The following is a list of topics you learned throughout the course.
 
 ####Further Resources
 
-### Auth in Rails
+##### Auth in Rails
 
   * *NB: these may be slightly older ways of doing things*
   * [User Auth Rails Cast Video](https://www.youtube.com/watch?v=23JoO_R8SMs)
@@ -26,11 +26,11 @@ The following is a list of topics you learned throughout the course.
   * [User Authenication with Tests](http://www.emilyplatzer.io/2014/06/29/user-authentication.html)
   * [Tealeaf Academy Blog](http://www.gotealeaf.com/blog/authentication-methods-in-rails)
 
-### Devise
+##### Devise
   * [User Auth using Devise](http:/guides.railsgirls.com/devise/)
   * [Tealeaf Auth using Devise](http://www.gotealeaf.com/blog/how-to-use-devise-in-rails-for-authentication)
 
-### Nested Resources & Multipe Associations
+##### Nested Resources & Multipe Associations
 
   * [Associations Docs](http://api.rubyonrails.org/classes/ActiveRecord/Associations/ClassMethods.html)
   * [Model field data types](http://api.rubyonrails.org/classes/ActiveRecord/ConnectionAdapters/TableDefinition.html#method-i-column)
